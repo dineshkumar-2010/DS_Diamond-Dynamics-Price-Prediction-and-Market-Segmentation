@@ -6,9 +6,9 @@ This project predicts the price of a diamond and classifies it into a market seg
 
 🚀 Features
 
-    💰 Predict diamond price (in INR)
+   💰 Predict diamond price (in INR)
 
-    📊 Classify diamonds into:
+   📊 Classify diamonds into:
 
         Affordable Small Diamonds
    
