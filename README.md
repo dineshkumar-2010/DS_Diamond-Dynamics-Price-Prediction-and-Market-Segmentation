@@ -11,5 +11,9 @@ This project predicts the price of a diamond and classifies it into a market seg
 📊 Classify diamonds into:
 
    Affordable Small Diamonds
+   
    Mid-range Balanced Diamonds
+   
    Premium Heavy Diamonds
+
+   
