@@ -75,6 +75,13 @@ This project predicts the price of a diamond (in INR) and classifies it into a m
 
    streamlit run app.py
 
+📥 Download Models
+
+
+Download model files from:
+
+https://drive.google.com/drive/u/0/my-drive
+
 
 📌 Output
 
