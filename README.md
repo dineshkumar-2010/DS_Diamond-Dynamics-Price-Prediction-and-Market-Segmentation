@@ -6,14 +6,14 @@ This project predicts the price of a diamond and classifies it into a market seg
 
 🚀 Features
 
-💰 Predict diamond price (in INR)
+    💰 Predict diamond price (in INR)
 
-📊 Classify diamonds into:
+    📊 Classify diamonds into:
 
-   Affordable Small Diamonds
+        Affordable Small Diamonds
    
-   Mid-range Balanced Diamonds
+        Mid-range Balanced Diamonds
    
-   Premium Heavy Diamonds
+        Premium Heavy Diamonds
 
    
