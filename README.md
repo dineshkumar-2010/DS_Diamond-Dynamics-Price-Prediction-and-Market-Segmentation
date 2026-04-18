@@ -80,7 +80,7 @@ This project predicts the price of a diamond (in INR) and classifies it into a m
 
 Download model files from:
 
-https://drive.google.com/drive/u/0/my-drive
+[https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1FKrrUli5HVqSWjNZQ0tCFI2biyt9FsIU/view?usp=drive_link)
 
 
 📌 Output
