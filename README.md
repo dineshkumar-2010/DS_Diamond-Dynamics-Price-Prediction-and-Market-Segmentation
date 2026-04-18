@@ -8,84 +8,85 @@ This project predicts the price of a diamond (in INR) and classifies it into a m
 
 🚀 Features
 
-Predict diamond price
+   Predict diamond price
 
-Classify diamonds into:
+   Classify diamonds into:
 
-Affordable Small Diamonds
+   Affordable Small Diamonds
 
-Mid-range Balanced Diamonds
+   Mid-range Balanced Diamonds
 
-Premium Heavy Diamonds
+   Premium Heavy Diamonds
 
 
 🧠 Models Used
 
-Random Forest Regressor → Price Prediction
+   Random Forest Regressor → Price Prediction
 
-KMeans Clustering → Market Segmentation
+   KMeans Clustering → Market Segmentation
 
 
 📊 Input Features
 
-Carat
+   Carat
 
-Cut
+   Cut
 
-Color
+   Color
 
-Clarity
+   Clarity
 
-Depth
+   Depth
 
-Table
+   Table
 
-x, y, z (dimensions)
+   x, y, z (dimensions)
 
 
 🏗 Feature Engineering
 
-Volume = x × y × z
+   Volume = x × y × z
 
-Dimension Ratio
+   Dimension Ratio
 
-Length-Width Ratio
+   Length-Width Ratio
 
-Carat Category
+   Carat Category
 
 
 📂 Project Files
 
-app.py
+   app.py
 
-best_random_forest_model.pkl
+   best_random_forest_model.pkl
 
-kmeans_clustering_model.pkl
+   kmeans_clustering_model.pkl
 
-scaler.pkl
+   scaler.pkl
 
-imputer.pkl
+   imputer.pkl
 
-cluster_columns.pkl
+   cluster_columns.pkl
 
 
 ⚙️ How to Run
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
-streamlit run app.py
+   streamlit run app.py
 
 
 📌 Output
 
-Predicted diamond price
+   Predicted diamond price
 
-Market segment (cluster)
+   Market segment (cluster)
 
 
 👤 Author
 
 
-Dinesh
+   Dinesh kumar N
+   
 
    
